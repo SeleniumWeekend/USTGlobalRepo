@@ -6,6 +6,7 @@ public class Equals
 	Equals(int i)
 	{
 		this.i = i;
+		this.i = i;
 	}
 	
 	public boolean equals(Object o1)
